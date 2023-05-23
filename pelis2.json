@@ -1,0 +1,17 @@
+[
+    {
+        "titulo": "Acero Puro",
+        "genero": "Boxeo",
+        "imagen_portada": "https://es.web.img2.acsta.net/medias/nmedia/18/85/01/28/19814118.jpg"
+    },
+    {
+        "titulo": "Guardianes de la noche: Tren Infinito",
+        "genero": "Anime",
+        "imagen_portada": "https://pics.filmaffinity.com/Guardianes_de_la_noche_Tren_infinito-909654449-large.jpg"
+    },
+    {
+        "titulo": "el hobbit la desolación de smaug",
+        "genero": "Ciencia-Ficcion",
+        "imagen_portada": "https://i.blogs.es/01974e/cartel-hobbit-desolacion-smaug/450_1000.jpg"
+    }
+]
